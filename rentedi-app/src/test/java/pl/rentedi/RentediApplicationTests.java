@@ -1,4 +1,4 @@
-package pl.rentedi.rentedi;
+package pl.rentedi;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
